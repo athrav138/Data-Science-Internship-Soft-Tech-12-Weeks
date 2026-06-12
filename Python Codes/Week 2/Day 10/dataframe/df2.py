@@ -1,11 +1,19 @@
 import pandas as pd
 
 dict = [
-  {"Name": ["Atharv","Aps","Suyash"]},
-  {"Age" :[18,17,19]},
-  {"Percent":[94.82,89,98.3]}
+  {"Name":"atharv","Age":38},
+  {"Name":"Shree","Age":34}
 ]
 
 df = pd.DataFrame(dict)
 
 print(df)
+print()
+
+print(df["Name"])
+print()
+
+print(df.loc[1,"Name"])
+print()
+
+print(df.iloc[1])
