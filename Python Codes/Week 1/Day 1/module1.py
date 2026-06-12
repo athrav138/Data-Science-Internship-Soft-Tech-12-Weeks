@@ -1,0 +1,3 @@
+import fun_arithmetic as f
+
+f.add(1,2,3,4,5)
