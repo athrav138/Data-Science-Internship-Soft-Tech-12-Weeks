@@ -1,0 +1,21 @@
+Employee_ID,Full_Name,Age,Gender,Joining_Date,Department,Salary,Country,Phone,Marks
+101, Akif Attar ,25,M,12/2/2026,IT,"?25,000",India,9876543210,85
+102,Ali Khan,30,Male,20-Mar-25,Information Technology,"?30,000",-9876543120,9876543211,90
+103,Sara Sheikh,,Female,12/5/2020,I.T.,"?28,500",INDIA,(987)6543212,88
+104,Ahmed Patel,-5,male,15-Jan-24,HR,"?35,000",ind,987-654-3213,92
+105,Fatima Noor,180,F,10/8/2023,Finance,"?40,000",Bharat,+91 9876543214,95
+106,,27,Female,,HR,"?27,000",India,9876543215,80
+107,John Smith,29,M,31-12-22,IT,?,India,9876543216,1000
+108, Priya Sharma,26,Female,2024.06.15,Finance,"?26,000",India,,78
+109,Rahul Verma,31,Male,June 10 2023,IT,"?31,000",india,9876543218,82
+110,Ayesha Khan,28,F,1/11/2025,I.T.,"?29,500",INDIA,9876543219,86
+111,Ali Khan,30,Male,20-Mar-25,Information Technology,"?30,000",-9876543120,9876543211,90
+112,  Zoya Shaikh  ,,female,3/14/2021,HR,"?24,500",India,(987)-654-3220,89
+113,Imran Sheikh,24,M,8/7/2022,I.T.,"?22,000",IND,9876543221,75
+114,Neha Patil,27,Female,5-Jul,2024,?ance,"₹27,500",India,+91 9876543222
+115,Karan Joshi,29,m,30-11-21,Information Technology,"?32,000",Bharat,9876543223,84
+116,Meera Desai,26,Female,15-09-20,IT,"?26,500",India,9876543224,81
+117,Arjun More,,Male,15-Aug-23,HR,?,INDIA,9876543225,87
+118,Sneha Kulkarni,23,F,8/20/2022,Finance,"?23,000",india,9876543226,79
+119,Vikram Singh,999,Male,10/1/2024,I.T.,"?50,000",India,9876543227,91
+120,Nida Shaikh,22,Female,,Information Technology,"?21,500",IND,9876543228,77
