@@ -1,0 +1,8 @@
+Project 1 - Exploratory Data Analysis
+
+ITRS010 - Atharv Milind Suryavanshi
+
+Title: Global Video Game Sales Trends and Market Insights
+
+Dataset: https://www.kaggle.com/datasets/gregorut/videogamesales?select=vgsales.csv
+
