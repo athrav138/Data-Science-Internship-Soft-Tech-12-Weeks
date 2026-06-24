@@ -1,0 +1,53 @@
+  Top 10 Dashboards Examples :- https://www.numerro.io/guides/top-10-power-bi-dashboard-examples-free-template
+
+Excel
+   ↓
+SQL
+   ↓
+Power BI Basics
+   ↓
+Power Query
+   ↓
+Visualization
+   ↓
+Data Modeling
+   ↓
+Basic DAX
+   ↓
+Advanced DAX
+   ↓
+Dashboard Design
+   ↓
+Power BI Service
+   ↓
+Portfolio Projects
+   ↓
+Microsoft Fabric
+
+
+
+* Importance of the Tools in Data Analysis
+
+| Tool     | Importance |
+| -------- | ---------- |
+| Python   | Very High  |
+| Pandas   | Very High  |
+| SQL      | Very High  |
+| Power BI | Very High  |
+| Seaborn  | High       |
+| Excel    | Medium     |
+
+
+
+
+
+* Recommended Learning Order
+
+	1. Python basics
+	2. Pandas
+	3. Data cleaning
+	4.Matplotlib
+	5. Seaborn
+	6. SQL
+	7. Power BI
+	8. Dashboard storytelling
