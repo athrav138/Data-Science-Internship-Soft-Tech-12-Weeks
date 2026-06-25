@@ -1,0 +1,69 @@
+Project Title - Global Video Game Sales Trends and Market Insights
+
+Project Type - Exploratory Data Analysis (EDA)
+
+
+Student Information
+
+	Course: ITRS010 – Exploratory Data Analysis
+
+	Student Name: Atharv Milind Suryavanshi
+
+
+
+Dataset Information
+
+	Dataset Name: Global Video Games Sales
+
+	Source: Kaggle
+
+	Dataset Link: https://www.kaggle.com/datasets/gregorut/videogamesales
+
+	Total Records: 16,598 (Original Dataset)
+
+
+Project Description
+
+This project analyzes the Global Video Game Sales dataset using Exploratory Data Analysis (EDA). The dataset was cleaned, preprocessed, and analyzed to identify trends in game sales across different genres, platforms, publishers, and years. Various visualizations were created using Matplotlib to understand market performance and generate meaningful business insights.
+
+
+Project Objectives
+
+* Analyze global video game sales.
+* Identify the top-selling games.
+* Compare game genres based on popularity.
+* Determine the highest-performing gaming platforms.
+* Analyze publisher performance.
+* Study yearly global sales trends.
+* Generate business insights from the data.
+
+
+Tools and Technologies
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+
+Visualizations Included
+
+* Top 10 Global Selling Games
+* Number of Games by Genre
+* Top 10 Platforms by Global Sales
+* Top 10 Publishers by Global Sales
+* Year-wise Global Sales Trend
+
+
+Key Insights
+
+* A small number of blockbuster games contribute significantly to global sales.
+* Action is one of the most popular game genres.
+* Nintendo is among the leading publishers.
+* PlayStation 2, Wii, and Xbox 360 are among the highest-selling gaming platforms.
+* Global video game sales experienced strong growth during the 2000s before declining in later years.
+
+
+Conclusion
+
+This project demonstrates how Exploratory Data Analysis can transform raw data into meaningful insights. The findings highlight important trends in the video game industry and support data-driven decision-making through effective data visualization and analysis.
