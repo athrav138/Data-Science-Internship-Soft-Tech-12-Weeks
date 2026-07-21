@@ -1,0 +1,16 @@
+CustomerID,Age,Gender,Education_Level,Marital_Status,City,Annual_Income,Loan_Amount,Credit_Score,Employment_Type,Loan_Status
+C001,25,Male,Graduate,Single,Mumbai,450000,200000,720,Salaried,Approved
+C002,38,Female,Post Graduate,Married,Pune,850000,500000,680,Self-Employed,Approved
+C003,,Male,High School,Single,Delhi,300000,150000,590,Salaried,Rejected
+C004,120,Female,Graduate,Married,,950000,750000,810,Business,Approved
+C005,29,,Diploma,Single,Kolhapur,280000,900000,450,Unemployed,Rejected
+C006,41,Male,Post Graduate,Married,Mumbai,1500000,200000,999,Salaried,Approved
+C007,22,Male,Primary,Single,Sangli,150000,120000,300,Student,Rejected
+C008,35,Female,Graduate,Divorced,Pune,,350000,670,Salaried,Approved
+C009,27,Other,High School,Single,Mumbai,abc,180000,610,Self-Employed,Rejected
+C010,52,Male,Post Graduate,Married,Delhi,2200000,2000000,880,Business,Approved
+C011,19,Female,Primary,Single,Pune,100000,50000,200,Student,Rejected
+C012,60,Male,Graduate,Widowed,Mumbai,5000000,1000000,950,Retired,Approved
+C013,33,Female,,Married,Sangli,450000,350000,710,Salaried,Approved
+C014,28,Male,Graduate,Single,Pune,320000,800000,400,Salaried,Rejected
+C015,45,Female,Post Graduate,Married,Delhi,1800000,300000,690,Self-Employed,Approved
