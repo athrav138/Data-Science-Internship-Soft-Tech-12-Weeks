@@ -349,8 +349,9 @@ During the internship, I gained practical experience in:
 - Power Query Data Transformation
 
 ---
-
+# Internship
 ## Author
+
 
 **Atharv Milind Suryavanshi**
 
