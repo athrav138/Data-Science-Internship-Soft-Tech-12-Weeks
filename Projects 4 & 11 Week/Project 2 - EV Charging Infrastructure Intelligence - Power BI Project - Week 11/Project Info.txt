@@ -1,0 +1,75 @@
+## Team Members
+
+1. Atharv Milind Suryavanshi
+2. Shreedhar Sanjay Kumbhar
+
+## Project Title
+
+EV Charging Infrastructure Intelligence Dashboard
+
+### Phase 1: Data Cleaning & Pre-processing
+
+* Handle missing State and City values.
+* Standardize Country names.
+* Clean and normalize Operator names.
+* Split Connector Types into individual values.
+* Correct inconsistent Status values.
+* Validate Latitude and Longitude coordinates.
+* Remove duplicate charging stations.
+* Create Charging Capacity categories.
+
+### Phase 2: Calculated Columns
+
+* Station Age
+* Connector Category
+* Operational Flag
+* Connector Capacity Group
+* Country Region
+
+### Phase 3: DAX Measures
+
+* Total Stations
+* Operational Stations
+* Non-Operational Stations
+* Total Connectors
+* Average Connectors per Station
+* Operational %
+* Top Operator
+
+### Phase 4: Dashboard Pages
+
+#### Page 1 – Executive Overview
+
+* KPI Cards:
+
+  * Total Stations
+  * Operational %
+  * Total Connectors
+* Interactive Map of Charging Stations
+* Stations by Country
+* Operational vs Non-Operational Stations
+
+#### Page 2 – Infrastructure Analysis
+
+* Connector Type Distribution
+* Operator-wise Analysis
+* Station Capacity Analysis
+* Country-wise Comparison
+* Top Operators
+
+#### Page 3 – Station Details
+
+* Drillthrough by Country, Operator, and Station
+* Detailed Station Information Table
+* Connector Details and Specifications
+
+### Skills Demonstrated
+
+* Power Query Data Cleaning
+* Data Transformation
+* DAX Calculated Columns
+* DAX Measures
+* Interactive Dashboard Design
+* Maps and Geospatial Analysis
+* Drillthrough Reports
+* Business Intelligence using Power BI
